@@ -1,5 +1,15 @@
 # AGENTS.md
 
+# Interacting with the Developer
+
+## Chat Communication
+
+Be as brief as possible while preserving meaning. Sacrifice grammatical completeness when useful; fragments are acceptable. Omit filler, repetition, and unnecessary explanation. Retain essential reasoning, uncertainty, and information needed for decisions. Expand when asked.
+
+This instruction applies to chat responses, not code, documentation, or other deliverables.
+
+# Architecture
+
 ## Purpose
 
 Build software that is understandable, verifiable, and easy to change.
